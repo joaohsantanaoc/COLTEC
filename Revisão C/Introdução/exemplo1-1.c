@@ -1,7 +1,7 @@
 /*
 01/01/2025
 Revisão Linguagem C: Introdução
-Trabalhando com diferentes bases numéricas
+Exemplo 1.1: Trabalhando com diferentes bases numéricas
 João Henrique Santana Oliveira Campos
 Turma 304 - Automação Industrial
 Professor Márcio Fantini
